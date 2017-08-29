@@ -1,4 +1,4 @@
-package com.readmian.api;
+package com.readmain.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
